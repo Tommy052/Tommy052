@@ -24,10 +24,10 @@ Interested in **React**, **Next.js** **TS/JS**, **Dajngo**, **Nest.js**, **expre
   
 ## Stats
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommy052&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=rkskekzzz)](https://solved.ac/rkskekzzz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy052&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=Tommy052)](https://solved.ac/Tommy052)
 
 
 <p>
