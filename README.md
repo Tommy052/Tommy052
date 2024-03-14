@@ -4,7 +4,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/react-hexcode%2361DAFB?style=flat&logo=react">&nbsp
-  <img alt="Static Badge" src="https://img.shields.io/badge/typescript-hexcode%3178C6?style=flat&logo=react">&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/typescript-hexcode%3178C6?style=flat&logo=typescript">&nbsp
 </div>
 
 
