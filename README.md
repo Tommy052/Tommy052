@@ -1,7 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Tommy052%20github&fontSize=90&fontColor=d6ace6)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/react-hexcode%2361DAFB?style=flat&logo=react&label=lib">
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/react-hexcode%2361DAFB?style=flat&logo=react&label=lib">&nbsp
+</div>
+
 
 <!--
 **Tommy052/Tommy052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
