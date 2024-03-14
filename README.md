@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Tommy052%20github&fontSize=90&fontColor=d6ace6)
 <!--
 **Tommy052/Tommy052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
