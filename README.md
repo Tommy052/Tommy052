@@ -32,6 +32,7 @@ Interested in **React**, **Next.js** **TS/JS**, **Dajngo**, **Nest.js**, **expre
 
 <p>
   <a href="https://www.notion.so/Turtle-Code-7ed8011c2f5a4f0cb4d737db5575b191" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="mailto:eheh34w@gmail.com" target="_blank"><img src="https://img.shields.io/badge/eheh34w@gmail.com-EA4335?style=flat-square&logo=medium&logoColor=black"/></a>
   <a href="https://www.instagram.com/eheh12w/" target="_blank"><img src="https://img.shields.io/badge/tommy052-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:eheh34w@gmail.com" target="_blank"><img src="https://img.shields.io/badge/eheh34w@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
