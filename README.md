@@ -1,55 +1,80 @@
 <div align="center">
-<p>
-hi 
-</p>
 
-Interested in **React**, **Next.js** **TS/JS**, **Dajngo**, **Nest.js**, **express**
+# 👋 안녕하세요, 최재혁입니다
 
-<br>
+**7년차 프론트엔드 개발자 | 데이터 시각화 & 웹 솔루션**
 
-**Want to see the things you studied recently?**
+거북이처럼 차곡차곡, 꾸준히 성장하는 개발자입니다 🐢
 
-[📝 My medium](https://medium.com/@eheh34w)
-
-<br>
-<br>
-
-
-## Skills
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-    
-  
-<br>
-  
-## Stats
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommy052&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy052&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=Tommy052)](https://solved.ac/Tommy052)
-
-
-<p>
-  <a href="https://www.notion.so/Turtle-Code-7ed8011c2f5a4f0cb4d737db5575b191" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://medium.com/@eheh34w" target="_blank"><img src="https://img.shields.io/badge/Medium-BLOG-282828?style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="https://www.instagram.com/eheh12w/" target="_blank"><img src="https://img.shields.io/badge/tommy052-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:eheh34w@gmail.com" target="_blank"><img src="https://img.shields.io/badge/eheh34w@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eheh34w)
+[![Gmail](https://img.shields.io/badge/eheh34w@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eheh34w@naver.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eheh12w/)
 
 </div>
 
-<!--
-**Tommy052/Tommy052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 **딥아이** 개발 팀장 (2023.11 ~ 현재) — 피파괴검사 AI 솔루션
+- 📊 D3.js / Plotly.js 기반 **데이터 시각화** 전문
+- 🏗️ React → TypeScript 마이그레이션, 인프라(AWS/GCP) 구축 경험
+- 👥 6명 개발팀 리딩, 2주 단위 스프린트 운영
+- 💡 관심이 생기면 빠르게 도전하고, 단 한 줄의 코드에도 서비스의 가치를 담으려 노력합니다
+
+---
+
+## 💼 Career
+
+| 기간 | 회사 | 역할 | 기술 |
+|------|------|------|------|
+| 2023.11 ~ **현재** | **딥아이** | FE 개발팀장 | React, TypeScript, D3.js, AWS, GCP |
+| 2022.05 ~ 2023.10 | 팀솔루션 | FE 개발자 | Next.js, Nest.js, WebGL, Azure |
+| 2020.09 ~ 2022.04 | 트리피누 | 풀스택 개발자 | Django, React, AWS, Google Maps |
+| 2019.07 ~ 2020.07 | 아이엔지코리아 | SW 개발자 | C#, WinForms, MySQL, Android |
+| 2018.06 ~ 2019.06 | 엔에스이 | IT 헬프데스크 | Java, MSSQL, SVN |
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Infra & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 🔭 현재 하고 있는 일
+
+- 🔬 **피파괴검사 AI 자동검사 솔루션** 개발 리딩
+- 📈 D3.js + React SVG 기반 고성능 시각화 차트 설계 및 구현
+- 🖥️ Electron 기반 오프라인 데스크톱 앱 개발
+- ☁️ GCP 인프라 운영 (VM, BigQuery, Cloud Logging)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tommy052&show_icons=true&theme=default&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy052&layout=compact&hide_border=true)](https://github.com/Tommy052)
+
+</div>
