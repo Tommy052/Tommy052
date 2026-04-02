@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 - 🏢 **딥아이** 개발 팀장 (2023.11 ~ 현재) — 피파괴검사 AI 솔루션
-- 📊 D3.js / Plotly.js 기반 **데이터 시각화** 전문
+- 📊 D3.js / WebGL / WebGPU 기반 **데이터 시각화** 전문
 - 🏗️ React → TypeScript 마이그레이션, 인프라(AWS/GCP) 구축 경험
 - 👥 6명 개발팀 리딩, 2주 단위 스프린트 운영
 - 💡 관심이 생기면 빠르게 도전하고, 단 한 줄의 코드에도 서비스의 가치를 담으려 노력합니다
@@ -43,6 +43,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
 
 ### Backend
@@ -63,7 +65,7 @@
 ## 🔭 현재 하고 있는 일
 
 - 🔬 **피파괴검사 AI 자동검사 솔루션** 개발 리딩
-- 📈 D3.js + React SVG 기반 고성능 시각화 차트 설계 및 구현
+- 📈 D3.js + WebGL/WebGPU 기반 고성능 시각화 차트 설계 및 구현
 - 🖥️ Electron 기반 오프라인 데스크톱 앱 개발
 - ☁️ GCP 인프라 운영 (VM, BigQuery, Cloud Logging)
 
