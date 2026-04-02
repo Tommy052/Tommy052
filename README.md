@@ -2,13 +2,14 @@
 
 # 👋 안녕하세요, 최재혁입니다
 
-**7년차 프론트엔드 개발자 | 데이터 시각화 & 웹 솔루션**
+**6년차 프론트엔드 개발자 | 데이터 시각화 & 웹 솔루션**
 
 거북이처럼 차곡차곡, 꾸준히 성장하는 개발자입니다 🐢
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eheh34w)
 [![Gmail](https://img.shields.io/badge/eheh34w@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eheh34w@naver.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eheh12w/)
+[![Resume](https://img.shields.io/badge/Resume-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tommy052/resume)
 
 </div>
 
