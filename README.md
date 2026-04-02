@@ -67,14 +67,3 @@
 - 🖥️ Electron 기반 오프라인 데스크톱 앱 개발
 - ☁️ GCP 인프라 운영 (VM, BigQuery, Cloud Logging)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tommy052&show_icons=true&theme=default&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy052&layout=compact&hide_border=true)](https://github.com/Tommy052)
-
-</div>
