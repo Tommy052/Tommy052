@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 **딥아이** DEV 팀장 / Frontend Lead (2023.11 ~ 현재) — 비파괴검사 AI 솔루션
+- 🏢 **딥아이** DEV 팀장 (풀스택) (2023.11 ~ 현재) — 비파괴검사 AI 솔루션
 - 📊 D3.js / WebGL / WebGPU 기반 **데이터 시각화** 전문
 - 🏗️ FE 리드 + BE/API · 인프라(AWS/GCP)까지 직접 다루는 풀스택 경험
 - 👥 6명 개발팀 리딩, 2주 단위 스프린트 운영
@@ -29,7 +29,7 @@
 
 | 기간 | 회사 | 역할 | 기술 |
 |------|------|------|------|
-| 2023.11 ~ **현재** | **딥아이** | DEV 팀장 / Frontend Lead | React, TypeScript, D3.js, NestJS, AWS, GCP |
+| 2023.11 ~ **현재** | **딥아이** | DEV 팀장 (풀스택) | React, TypeScript, D3.js, NestJS, AWS, GCP |
 | 2022.05 ~ 2023.10 | 팀솔루션 | FE 개발자 | Next.js, Nest.js, WebGL, Azure |
 | 2020.09 ~ 2022.04 | 트리피누 | 풀스택 개발자 | Django, React, AWS, Google Maps |
 | 2019.07 ~ 2020.07 | 아이엔지코리아 | SW 개발자 | C#, WinForms, MySQL, Android |
