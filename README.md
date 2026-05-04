@@ -9,7 +9,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eheh34w)
 [![Gmail](https://img.shields.io/badge/eheh34w@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eheh34w@naver.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eheh12w/)
-[![Resume](https://img.shields.io/badge/Resume-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tommy052/resume)
+[![Resume](https://img.shields.io/badge/Resume-181717?style=flat-square&logo=github&logoColor=white)](https://tommy052.github.io/resume/)
 
 </div>
 
