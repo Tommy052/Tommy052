@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 최재혁입니다
 
-**6년차 풀스택 개발자 | 데이터 시각화 & 웹 솔루션**
+**Frontend Engineer / Tech Lead · 6년차 | 데이터 시각화 & 웹 솔루션**
 
 거북이처럼 차곡차곡, 꾸준히 성장하는 개발자입니다 🐢
 
@@ -17,9 +17,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 **딥아이** 개발 팀장 (2023.11 ~ 현재) — 피파괴검사 AI 솔루션
+- 🏢 **딥아이** DEV 팀장 / Frontend Lead (2023.11 ~ 현재) — 비파괴검사 AI 솔루션
 - 📊 D3.js / WebGL / WebGPU 기반 **데이터 시각화** 전문
-- 🏗️ React → TypeScript 마이그레이션, 인프라(AWS/GCP) 구축 경험
+- 🏗️ FE 리드 + BE/API · 인프라(AWS/GCP)까지 직접 다루는 풀스택 경험
 - 👥 6명 개발팀 리딩, 2주 단위 스프린트 운영
 - 💡 관심이 생기면 빠르게 도전하고, 단 한 줄의 코드에도 서비스의 가치를 담으려 노력합니다
 
@@ -29,7 +29,7 @@
 
 | 기간 | 회사 | 역할 | 기술 |
 |------|------|------|------|
-| 2023.11 ~ **현재** | **딥아이** | DEV 팀장 (풀스택) | React, TypeScript, D3.js, NestJS, AWS, GCP |
+| 2023.11 ~ **현재** | **딥아이** | DEV 팀장 / Frontend Lead | React, TypeScript, D3.js, NestJS, AWS, GCP |
 | 2022.05 ~ 2023.10 | 팀솔루션 | FE 개발자 | Next.js, Nest.js, WebGL, Azure |
 | 2020.09 ~ 2022.04 | 트리피누 | 풀스택 개발자 | Django, React, AWS, Google Maps |
 | 2019.07 ~ 2020.07 | 아이엔지코리아 | SW 개발자 | C#, WinForms, MySQL, Android |
