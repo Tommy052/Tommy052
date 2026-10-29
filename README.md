@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 최재혁입니다
 
-**Frontend Engineer / Tech Lead · 6년차 | 데이터 시각화 & 웹 솔루션**
+**Frontend Engineer / Tech Lead · 8년차 | 데이터 시각화 & 웹 솔루션**
 
 거북이처럼 차곡차곡, 꾸준히 성장하는 개발자입니다 🐢
 
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 **딥아이** DEV 팀장 (풀스택) (2023.11 ~ 현재) — 비파괴검사 AI 솔루션
+- 🏢 **딥아이** DEV 팀장 · Frontend Lead (2023.10 ~ 현재) — 비파괴검사 AI 솔루션
 - 📊 D3.js / WebGL / WebGPU 기반 **데이터 시각화** 전문
 - 🏗️ FE 리드 + BE/API · 인프라(AWS/GCP)까지 직접 다루는 풀스택 경험
 - 👥 6명 개발팀 리딩, 2주 단위 스프린트 운영
@@ -29,11 +29,11 @@
 
 | 기간 | 회사 | 역할 | 기술 |
 |------|------|------|------|
-| 2023.11 ~ **현재** | **딥아이** | DEV 팀장 (풀스택) | React, TypeScript, D3.js, NestJS, AWS, GCP |
+| 2023.10 ~ **현재** | **딥아이** | DEV 팀장 · Frontend Lead | React, TypeScript, D3.js, WebGL, NestJS, Go, Rust, GCP |
 | 2022.05 ~ 2023.10 | 팀솔루션 | FE 개발자 | Next.js, Nest.js, WebGL, Azure |
-| 2020.09 ~ 2022.04 | 트리피누 | 풀스택 개발자 | Django, React, AWS, Google Maps |
-| 2019.07 ~ 2020.07 | 아이엔지코리아 | SW 개발자 | C#, WinForms, MySQL, Android |
-| 2018.06 ~ 2019.06 | 엔에스이 | IT 헬프데스크 | Java, MSSQL, SVN |
+| 2020.09 ~ 2022.03 | 트리피누 | 풀스택 개발자 | Django, React, AWS, Google Maps |
+| 2019.07 ~ 2020.07 | 아이앤지코리아 | SW 개발자 (MES) | C#, WinForms, WPF, MySQL, Android |
+| 2018.06 ~ 2019.07 | 엔에스이 | 기술지원 · 유지보수 | Java, C, SQL, SVN |
 
 ---
 
@@ -53,6 +53,13 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Systems / Desktop
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Infra & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -67,6 +74,8 @@
 
 - 🔬 **비파괴검사 AI 자동검사 솔루션** 개발 리딩
 - 📈 D3.js + WebGL/WebGPU 기반 고성능 시각화 차트 설계 및 구현
-- 🖥️ Electron 기반 오프라인 데스크톱 앱 개발
+- 🖥️ Electron 기반 오프라인 데스크톱 앱 설계 · 팀 리드
+- ⚙️ Rust · Tauri 실시간 검사 장비 수집 프로그램 개발
+- 📐 Go 자체 DWG 디코더 기반 플랜트 도면 플랫폼 개발
 - ☁️ GCP 인프라 운영 (VM, BigQuery, Cloud Logging)
 
